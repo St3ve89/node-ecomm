@@ -6,5 +6,10 @@
     "email": "test4@test.com",
     "password": "qwe",
     "id": "bd4313e8"
+  },
+  {
+    "email": "test2@test.com",
+    "password": "3973456eff065d5f51dde60b1fed8194e75b84e6517c2de40626d5e911396e3dfec8bbb3b56dee3b410f3466f3b78b821c8b263f1878a0e96a243441ca2ecac5.4cef8ff5a334071d",
+    "id": "384207ba"
   }
 ]
